@@ -17,6 +17,7 @@ beautifulsoup4==4.7.1
 blockchain==1.4.4
 certifi==2019.3.9
 chardet==3.0.4
+cifsdk>=3.0.0rc4,<4.0
 click-plugins==1.1.1
 click==7.0
 colorama==0.4.1
